@@ -1,0 +1,40 @@
+{
+	"basics": {
+		"name": "Sawant Raj Singh",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kuec2028@iiitkota.ac.in",
+		"phone": "9024648415",
+		"website": "",
+		"summary": "",
+		"location": {
+			"address": "Bharatpur, Rajasthan",
+			"postalCode": "321001",
+			"city": "Bharatpur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Sawant-Raj",
+				"url": "https://github.com/Sawant-Raj/"
+			},
+			{
+				"network": "linkedin",
+				"username": "sawant-singh-381181191",
+				"url": "https://www.linkedin.com/mwlite/in/sawant-singh-381181191"
+			},
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (Tech)",
+		"startDate": "2019-04-08 //Date",
+		"endDate": "2023",
+		"gpa": "7.64",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+}
