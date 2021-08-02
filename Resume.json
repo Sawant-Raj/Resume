@@ -5,8 +5,6 @@
 		"picture": "",
 		"email": "2019kuec2028@iiitkota.ac.in",
 		"phone": "9024648415",
-		"website": "",
-		"summary": "",
 		"location": {
 			"address": "Bharatpur, Rajasthan",
 			"postalCode": "321001",
@@ -30,11 +28,11 @@
 		"institution": "Indian Institute of Information Technology Kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (Tech)",
-		"startDate": "2019-04-08 //Date",
+		"startDate": "2019-04-08",
 		"endDate": "2023",
 		"gpa": "7.64",
 		"courses": [
-			"Computer Science & Engineering"
+			"Electronics and Communication Engineering"
 		]
 	}]
 }
