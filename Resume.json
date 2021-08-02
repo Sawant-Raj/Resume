@@ -23,7 +23,7 @@
 				"network": "linkedin",
 				"username": "sawant-singh-381181191",
 				"url": "https://www.linkedin.com/mwlite/in/sawant-singh-381181191"
-			},
+			}
 		]
 	},
 	"education": [{
@@ -36,5 +36,5 @@
 		"courses": [
 			"Computer Science & Engineering"
 		]
-	}],
+	}]
 }
